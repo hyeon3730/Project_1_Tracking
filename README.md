@@ -5,5 +5,4 @@
 
 저자
 ---
-유재현 <br/>
-yjh_3730@naver.com
+유재현, yjh_3730@naver.com
