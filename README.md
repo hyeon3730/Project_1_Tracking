@@ -5,7 +5,7 @@
 
 ## Process
 1. Data준비
-  * MOT17 DATASET
+    * MOT17 DATASET
 
 ## contributor
 유재현, yjh_3730@naver.com
